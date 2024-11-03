@@ -1,0 +1,13 @@
+nav {
+    background-color: aqua;
+    padding: 13px 25px;
+}
+
+nav a {
+    margin-left: 10px;
+
+}
+
+nav a.active {
+    color: red;
+}
